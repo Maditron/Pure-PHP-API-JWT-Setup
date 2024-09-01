@@ -1,0 +1,13 @@
+{
+    "require": {
+        "intervention/image": "^3.4",
+        "firebase/php-jwt": "^6.10",
+        "paragonie/sodium_compat": "^1.20"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "lib\\" : "libraries/"    
+        }
+    }
+}
